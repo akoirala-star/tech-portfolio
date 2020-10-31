@@ -12,3 +12,6 @@ You can list [links](https://www.hashicorp.com/resources/test-driven-development
 or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
+I learned how to create my technical portfolio at Grace Hopper Celebration 2020!
+
+
